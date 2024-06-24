@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/adityao007/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityao007/Leetcode/tree/master/0031-next-permutation) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adityao007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1138-grumpy-bookstore-owner](https://github.com/adityao007/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adityao007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1138-grumpy-bookstore-owner](https://github.com/adityao007/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 # Prefix Sum
 |  |
 | ------- |
