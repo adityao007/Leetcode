@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityao007/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityao007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adityao007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Bit Manipulation
 |  |
@@ -26,3 +27,11 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityao007/Leetcode/tree/master/0001-two-sum) |
+# Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityao007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityao007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
