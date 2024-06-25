@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityao007/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityao007/Leetcode/tree/master/0031-next-permutation) |
+| [0074-search-a-2d-matrix](https://github.com/adityao007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/adityao007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/adityao007/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 # Bit Manipulation
@@ -69,8 +70,13 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityao007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityao007/Leetcode/tree/master/0074-search-a-2d-matrix) |
