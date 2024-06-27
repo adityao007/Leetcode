@@ -93,3 +93,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/adityao007/Leetcode/tree/master/0118-pascals-triangle) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/adityao007/Leetcode/tree/master/1916-find-center-of-star-graph) |
