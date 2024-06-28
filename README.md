@@ -60,10 +60,12 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityao007/Leetcode/tree/master/0011-container-with-most-water) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/adityao007/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityao007/Leetcode/tree/master/0015-3sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/adityao007/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Tree
 |  |
 | ------- |
@@ -97,3 +99,8 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/adityao007/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/adityao007/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/adityao007/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
