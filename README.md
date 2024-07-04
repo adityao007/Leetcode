@@ -136,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -162,4 +163,12 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/adityao007/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
