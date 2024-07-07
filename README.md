@@ -166,12 +166,14 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/adityao007/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/adityao007/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
+| [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/adityao007/Leetcode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
