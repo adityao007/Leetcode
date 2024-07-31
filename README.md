@@ -210,6 +210,7 @@
 | [0007-reverse-integer](https://github.com/adityao007/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityao007/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/adityao007/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -226,6 +227,7 @@
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -286,9 +288,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adityao007/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adityao007/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
