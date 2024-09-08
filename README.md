@@ -247,6 +247,7 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
+| [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityao007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/adityao007/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -316,4 +317,16 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
