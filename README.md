@@ -196,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityao007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityao007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/adityao007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -232,6 +233,7 @@
 | [0020-valid-parentheses](https://github.com/adityao007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityao007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityao007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityao007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/adityao007/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -253,6 +255,7 @@
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
 | [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityao007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityao007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/adityao007/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
