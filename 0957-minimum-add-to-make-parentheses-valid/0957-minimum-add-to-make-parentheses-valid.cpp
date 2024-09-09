@@ -8,7 +8,7 @@ public:
                 sa.push(ch);
             }
             else{
-                if(sa.size()>0 && sa.top()=='('){
+                if(!sa.empty() && sa.top()=='('){
                     sa.pop();
                 }
                 else{
