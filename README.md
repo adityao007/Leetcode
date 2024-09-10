@@ -142,6 +142,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/adityao007/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityao007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/adityao007/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/adityao007/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -333,6 +336,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
