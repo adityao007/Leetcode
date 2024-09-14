@@ -15,7 +15,7 @@ public:
         vector<vector<int>> result;
 
         if (root == nullptr) {
-            return result;  // Return an empty vector if root is NULL
+            return result;
         }
 
         queue<TreeNode*> Q;
@@ -30,7 +30,6 @@ public:
                 Q.pop();
                 currentLevel.push_back(curr->val);
 
-                // Enqueue the left and right children of the current node
                 if (curr->left != nullptr) {
                     Q.push(curr->left);
                 }
@@ -40,7 +39,6 @@ public:
                 }
             }
 
-            // Push the current level values to the result
             result.push_back(currentLevel);
         }
 
