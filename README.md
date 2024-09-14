@@ -150,6 +150,7 @@
 | [1293-three-consecutive-odds](https://github.com/adityao007/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/adityao007/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adityao007/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityao007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/adityao007/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adityao007/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityao007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adityao007/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityao007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adityao007/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
