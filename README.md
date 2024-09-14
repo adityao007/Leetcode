@@ -109,6 +109,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityao007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adityao007/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityao007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityao007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityao007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/adityao007/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -293,6 +295,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityao007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -300,6 +303,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityao007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
