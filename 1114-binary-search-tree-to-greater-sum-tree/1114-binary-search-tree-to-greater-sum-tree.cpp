@@ -1,32 +1,19 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
- public:
-  TreeNode* bstToGst(TreeNode* root) {
-    int prefix = 0;
+public:
+    int sum = 0;
 
-    function<void(TreeNode*)> reversedInorder = [&](TreeNode* root) {
-      if (root == nullptr)
-        return;
+    TreeNode* bstToGst(TreeNode* root) {
+        if (root == NULL) {
+            return NULL;
+        }
 
-      reversedInorder(root->right);
+        bstToGst(root->right);
 
-      root->val += prefix;
-      prefix = root->val;
+        sum += root->val;
+        root->val = sum;
 
-      reversedInorder(root->left);
-    };
+        bstToGst(root->left);
 
-    reversedInorder(root);
-    return root;
-  }
+        return root;
+    }
 };
