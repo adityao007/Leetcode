@@ -9,7 +9,6 @@ public:
         std::unordered_map<char, int> sourceCharCount;
         std::unordered_map<char, int> targetCharCount;
         
-        // Populate the frequency map for target
         for (char c : target) {
             targetCharCount[c]++;
         }
@@ -23,19 +22,16 @@ public:
             char currentChar = source[rightPointer];
             sourceCharCount[currentChar]++;
 
-            // Check if the current character matches the required count
             if (targetCharCount.count(currentChar) && sourceCharCount[currentChar] == targetCharCount[currentChar]) {
                 formedUniqueChars++;
             }
             
-            // When all required characters are formed, count valid substrings
             while (formedUniqueChars == requiredUniqueChars) {
                 validSubstringCount += sourceLength - rightPointer;
 
                 char leftChar = source[leftPointer];
                 sourceCharCount[leftChar]--;
                 
-                // Check if we need to decrease the formed character count
                 if (targetCharCount.count(leftChar) && sourceCharCount[leftChar] < targetCharCount[leftChar]) {
                     formedUniqueChars--;
                 }
