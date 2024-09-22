@@ -1,39 +1,39 @@
 class Solution {
 public:
-    long long validSubstringCount(std::string source, std::string target) {
-        int sourceLength = source.length();
-        int targetLength = target.length();
+    long long validSubstringCount(string word1, string word2) {
+        int length1 = word1.length();
+        int length2 = word2.length();
 
-        if (targetLength > sourceLength) return 0;
+        if (length2 > length1) return 0;
 
-        std::unordered_map<char, int> sourceCharCount;
-        std::unordered_map<char, int> targetCharCount;
-        
-        for (char c : target) {
-            targetCharCount[c]++;
+        unordered_map<char, int> charCount1;
+        unordered_map<char, int> charCount2;
+
+        for (char c : word2) {
+            charCount2[c]++;
         }
 
         long long validSubstringCount = 0;
-        int requiredUniqueChars = targetCharCount.size();
-        int formedUniqueChars = 0;
+        int requiredChars = charCount2.size();
+        int formedChars = 0;
         int leftPointer = 0;
 
-        for (int rightPointer = 0; rightPointer < sourceLength; rightPointer++) {
-            char currentChar = source[rightPointer];
-            sourceCharCount[currentChar]++;
+        for (int rightPointer = 0; rightPointer < length1; rightPointer++) {
+            char currentChar = word1[rightPointer];
+            charCount1[currentChar]++;
 
-            if (targetCharCount.count(currentChar) && sourceCharCount[currentChar] == targetCharCount[currentChar]) {
-                formedUniqueChars++;
+            if (charCount2.count(currentChar) && charCount1[currentChar] == charCount2[currentChar]) {
+                formedChars++;
             }
             
-            while (formedUniqueChars == requiredUniqueChars) {
-                validSubstringCount += sourceLength - rightPointer;
+            while (formedChars == requiredChars) {
+                validSubstringCount += length1 - rightPointer;
 
-                char leftChar = source[leftPointer];
-                sourceCharCount[leftChar]--;
+                char leftChar = word1[leftPointer];
+                charCount1[leftChar]--;
                 
-                if (targetCharCount.count(leftChar) && sourceCharCount[leftChar] < targetCharCount[leftChar]) {
-                    formedUniqueChars--;
+                if (charCount2.count(leftChar) && charCount1[leftChar] < charCount2[leftChar]) {
+                    formedChars--;
                 }
                 leftPointer++;
             }
