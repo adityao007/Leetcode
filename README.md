@@ -317,6 +317,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityao007/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -335,6 +336,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityao007/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -431,5 +433,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
