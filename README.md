@@ -114,6 +114,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityao007/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -320,6 +321,7 @@
 | [0572-subtree-of-another-tree](https://github.com/adityao007/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -341,6 +343,7 @@
 | [0572-subtree-of-another-tree](https://github.com/adityao007/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -440,5 +443,6 @@
 | [0450-delete-node-in-a-bst](https://github.com/adityao007/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
