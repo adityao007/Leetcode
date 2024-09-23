@@ -15,10 +15,9 @@ public:
         if (root == NULL) {
             return;
         }
-
         path += to_string(root->val);
 
-        if (root->left == nullptr && root->right == nullptr) {
+        if (root->left == NULL && root->right ==NULL) {
             paths.push_back(path);
         } else {
             path += "->";
