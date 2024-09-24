@@ -186,6 +186,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/adityao007/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/adityao007/Leetcode/tree/master/2846-robot-collisions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityao007/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
 | ------- |
@@ -478,4 +481,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
