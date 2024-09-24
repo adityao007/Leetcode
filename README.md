@@ -125,6 +125,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adityao007/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -196,6 +197,7 @@
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adityao007/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityao007/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -213,6 +215,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +342,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityao007/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -365,6 +369,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityao007/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
