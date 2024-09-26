@@ -187,6 +187,7 @@
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/adityao007/Leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3541-report-spam-message](https://github.com/adityao007/Leetcode/tree/master/3541-report-spam-message) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityao007/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3541-report-spam-message](https://github.com/adityao007/Leetcode/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3541-report-spam-message](https://github.com/adityao007/Leetcode/tree/master/3541-report-spam-message) |
 ## Recursion
 |  |
 | ------- |
