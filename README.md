@@ -166,6 +166,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/adityao007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0729-my-calendar-i](https://github.com/adityao007/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/adityao007/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/adityao007/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityao007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0859-design-circular-deque](https://github.com/adityao007/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/adityao007/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/adityao007/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -310,6 +312,7 @@
 | [0225-implement-stack-using-queues](https://github.com/adityao007/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/adityao007/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -450,6 +453,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/adityao007/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/adityao007/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/adityao007/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/adityao007/Leetcode/tree/master/0937-online-stock-span) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
