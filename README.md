@@ -175,6 +175,7 @@
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/adityao007/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adityao007/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityao007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -224,6 +225,7 @@
 | [0731-my-calendar-ii](https://github.com/adityao007/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Sorting
@@ -238,6 +240,7 @@
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/adityao007/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adityao007/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityao007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adityao007/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -392,6 +395,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/adityao007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/adityao007/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -407,6 +411,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adityao007/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
