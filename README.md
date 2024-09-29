@@ -169,6 +169,7 @@
 | [0859-design-circular-deque](https://github.com/adityao007/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/adityao007/Leetcode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/adityao007/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -233,6 +234,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/adityao007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/adityao007/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -281,6 +283,7 @@
 | [0009-palindrome-number](https://github.com/adityao007/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/adityao007/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -397,11 +400,13 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adityao007/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
@@ -509,4 +514,12 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/adityao007/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/adityao007/Leetcode/tree/master/0731-my-calendar-ii) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
