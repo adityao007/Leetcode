@@ -1,41 +1,35 @@
 class Solution {
- public:
-  vector<int> sortArray(vector<int>& nums) {
-    mergeSort(nums, 0, nums.size() - 1);
-    return nums;
-  }
+public:
+    void heapify(int i, vector<int> &arr, int n) {
+        int left = 2 * i + 1;  
+        int right = 2 * i + 2; 
+        int maxI = i;         
 
- private:
-  void mergeSort(vector<int>& A, int l, int r) {
-    if (l >= r)
-      return;
 
-    const int m = (l + r) / 2;
-    mergeSort(A, l, m);
-    mergeSort(A, m + 1, r);
-    merge(A, l, m, r);
-  }
+        if (left < n && arr[left] > arr[maxI]) {
+            maxI = left;
+        }
 
-  void merge(vector<int>& A, int l, int m, int r) {
-    vector<int> sorted(r - l + 1);
-    int k = 0;      // sorted's index
-    int i = l;      // left's index
-    int j = m + 1;  // right's index
+        if (right < n && arr[right] > arr[maxI]) {
+            maxI = right;
+        }
 
-    while (i <= m && j <= r)
-      if (A[i] < A[j])
-        sorted[k++] = A[i++];
-      else
-        sorted[k++] = A[j++];
+        if (maxI != i) {
+            swap(arr[i], arr[maxI]); 
+            heapify(maxI, arr, n);   
+        }
+    }
+    vector<int> sortArray(vector<int>& nums) {
+        int n = nums.size();
+    
+        for (int i = n / 2 - 1; i >= 0; i--) {
+            heapify(i, nums, n);
+        }
 
-    // Put the possible remaining left part into the sorted array.
-    while (i <= m)
-      sorted[k++] = A[i++];
-
-    // Put the possible remaining right part into the sorted array.
-    while (j <= r)
-      sorted[k++] = A[j++];
-
-    copy(sorted.begin(), sorted.end(), A.begin() + l);
-  }
+        for (int i = n - 1; i >= 0; i--) {
+            swap(nums[0], nums[i]); 
+            heapify(0, nums, i);   
+        }
+        return nums;
+    }
 };
