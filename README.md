@@ -205,6 +205,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/adityao007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/adityao007/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -222,6 +223,7 @@
 | [0125-valid-palindrome](https://github.com/adityao007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityao007/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/adityao007/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [0125-valid-palindrome](https://github.com/adityao007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/adityao007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityao007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityao007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/adityao007/Leetcode/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
