@@ -156,6 +156,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityao007/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityao007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -200,6 +201,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityao007/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
