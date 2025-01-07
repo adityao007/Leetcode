@@ -162,6 +162,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityao007/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -205,6 +206,7 @@
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/adityao007/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/adityao007/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/adityao007/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -242,6 +245,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityao007/Leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityao007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -299,6 +303,7 @@
 | [0009-palindrome-number](https://github.com/adityao007/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
@@ -506,6 +511,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/adityao007/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
