@@ -169,6 +169,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityao007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityao007/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
@@ -218,6 +219,7 @@
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityao007/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityao007/Leetcode/tree/master/0455-assign-cookies) |
@@ -454,6 +457,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -480,6 +484,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
