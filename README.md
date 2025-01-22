@@ -160,6 +160,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adityao007/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityao007/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityao007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -213,6 +214,7 @@
 | [0001-two-sum](https://github.com/adityao007/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -436,6 +438,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/adityao007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
