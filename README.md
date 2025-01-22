@@ -161,6 +161,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/adityao007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/adityao007/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
@@ -515,6 +516,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityao007/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/adityao007/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 ## String Matching
