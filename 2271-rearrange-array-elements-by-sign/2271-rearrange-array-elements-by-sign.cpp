@@ -20,7 +20,6 @@ public:
                 result[i] = negative[negIndex++];
             }
         }
-
         return result;
     }
 };
