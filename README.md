@@ -164,6 +164,7 @@
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/adityao007/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityao007/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/adityao007/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -228,6 +229,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityao007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adityao007/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityao007/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/adityao007/Leetcode/tree/master/0567-permutation-in-string) |
