@@ -210,6 +210,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityao007/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityao007/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1646-kth-missing-positive-number](https://github.com/adityao007/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityao007/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/adityao007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/adityao007/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -286,6 +287,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/adityao007/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Sorting
