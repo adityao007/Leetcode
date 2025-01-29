@@ -127,6 +127,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/adityao007/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/adityao007/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityao007/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adityao007/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityao007/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/adityao007/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityao007/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityao007/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/adityao007/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityao007/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/adityao007/Leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/adityao007/Leetcode/tree/master/3541-report-spam-message) |
@@ -485,6 +489,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/adityao007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/adityao007/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityao007/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
