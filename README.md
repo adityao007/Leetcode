@@ -340,6 +340,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/adityao007/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/adityao007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/adityao007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -374,6 +375,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/adityao007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/adityao007/Leetcode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
@@ -391,6 +393,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityao007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/adityao007/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/adityao007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adityao007/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/adityao007/Leetcode/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adityao007/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
