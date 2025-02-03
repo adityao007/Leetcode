@@ -6,12 +6,12 @@ public:
 
         for (char c : s) {
             if (c == '(') {
-                if (openCount > 0)  // Avoid adding outermost '('
+                if (openCount > 0) 
                     result += c;
                 openCount++;
-            } else { // c == ')'
+            } else {
                 openCount--;
-                if (openCount > 0)  // Avoid adding outermost ')'
+                if (openCount > 0)
                     result += c;
             }
         }
