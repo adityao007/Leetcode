@@ -7,8 +7,8 @@ public:
         {
             ans.push_back(s[i]);
 
-            if(ans.size()>=part.size() and ans.substr(ans.size()-part.size())==part){
-                ans.resize(ans.size()-part.size());
+            if(ans.size()>=part.size() && ans.substr(ans.size()-part.size())==part){
+                ans.erase(ans.size()-part.size());
             }
         }
         return ans;
