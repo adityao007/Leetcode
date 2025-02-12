@@ -12,16 +12,15 @@ private:
 public:
     int maximumSum(vector<int>& nums) {
         int maxsum = -1;
-        vector<int> maxNum(82, -1);
+        vector<int> maxnum(82, -1);
 
         for (int i=0;i<nums.size();i++) {
             int sum = digitSum(nums[i]);
 
-            if (maxNum[sum] != -1) {
-                maxsum = max(maxsum, nums[i] + maxNum[sum]);
+            if (maxnum[sum] != -1) {
+                maxsum = max(maxsum, nums[i] + maxnum[sum]);
             }
-
-            maxNum[sum] = max(maxNum[sum], nums[i]); 
+            maxnum[sum] = max(maxnum[sum], nums[i]); 
         }
 
         return maxsum;
