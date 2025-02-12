@@ -1,6 +1,5 @@
 class Solution {
 private:
-    // Function to compute sum of digits
     int digitSum(int num) {
         int sum = 0;
         while (num > 0) {
@@ -13,16 +12,16 @@ private:
 public:
     int maximumSum(vector<int>& nums) {
         int maxsum = -1;
-        vector<int> maxNum(82, -1); // Stores the largest number for each digit sum
+        vector<int> maxNum(82, -1);
 
-        for (int num : nums) {
-            int sum = digitSum(num);
+        for (int i=0;i<nums.size();i++) {
+            int sum = digitSum(nums[i]);
 
-            if (maxNum[sum] != -1) {  // If a number with this sum exists
-                maxsum = max(maxsum, num + maxNum[sum]);
+            if (maxNum[sum] != -1) {
+                maxsum = max(maxsum, nums[i] + maxNum[sum]);
             }
 
-            maxNum[sum] = max(maxNum[sum], num);  // Store the max number for this sum
+            maxNum[sum] = max(maxNum[sum], nums[i]); 
         }
 
         return maxsum;
