@@ -4,7 +4,12 @@ public:
         int n = nums.size();
         string result = "";
         for (int i = 0; i < n; i++) {
-            result += (nums[i][i] == '0') ? '1' : '0';
+            if (nums[i][i] == '0') {
+                result += '1';
+            } 
+            else {
+                result += '0';
+            }
         }
         return result;
     }
