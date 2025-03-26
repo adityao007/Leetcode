@@ -117,6 +117,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adityao007/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityao007/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/adityao007/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -252,6 +254,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/adityao007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityao007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/adityao007/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/adityao007/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -322,6 +325,7 @@
 | [0726-number-of-atoms](https://github.com/adityao007/Leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/adityao007/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/adityao007/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/adityao007/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -471,6 +475,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -499,6 +504,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adityao007/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/adityao007/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/adityao007/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
