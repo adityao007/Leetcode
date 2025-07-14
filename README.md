@@ -196,6 +196,7 @@
 | [0162-find-peak-element](https://github.com/adityao007/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/adityao007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityao007/Leetcode/tree/master/0283-move-zeroes) |
@@ -253,6 +254,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/adityao007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityao007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -324,6 +326,7 @@
 | [0075-sort-colors](https://github.com/adityao007/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/adityao007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityao007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityao007/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
