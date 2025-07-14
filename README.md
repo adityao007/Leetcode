@@ -539,6 +539,7 @@
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/adityao007/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/adityao007/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/adityao007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityao007/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -633,6 +634,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityao007/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/adityao007/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/adityao007/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 ## String Matching
