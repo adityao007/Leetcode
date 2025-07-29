@@ -15,7 +15,7 @@ public:
         ListNode* curr = head;
 
         while (curr) {
-            ListNode* nextTemp = curr->next;  // store next node
+            ListNode* nextTemp = curr->next;
             curr->next = prev;                // reverse current node's pointer
             prev = curr;                      // move prev one step forward
             curr = nextTemp;                  // move curr one step forward
