@@ -117,6 +117,7 @@
 | [0133-clone-graph](https://github.com/adityao007/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/adityao007/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityao007/Leetcode/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adityao007/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -481,6 +482,7 @@
 | [0139-word-break](https://github.com/adityao007/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adityao007/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/adityao007/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -726,6 +728,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adityao007/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/adityao007/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/adityao007/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -793,6 +796,7 @@
 | ------- |
 | [0139-word-break](https://github.com/adityao007/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adityao007/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
