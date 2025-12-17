@@ -444,6 +444,7 @@
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/adityao007/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
@@ -657,6 +658,7 @@
 | [0045-jump-game-ii](https://github.com/adityao007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityao007/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/adityao007/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/adityao007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityao007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityao007/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -787,4 +789,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adityao007/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
