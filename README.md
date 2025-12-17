@@ -197,6 +197,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityao007/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityao007/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/adityao007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/adityao007/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/adityao007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
@@ -294,6 +295,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityao007/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adityao007/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/adityao007/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/adityao007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/adityao007/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -667,6 +669,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityao007/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/adityao007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityao007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -856,6 +859,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityao007/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/adityao007/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/adityao007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/adityao007/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
