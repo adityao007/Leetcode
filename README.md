@@ -445,6 +445,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/adityao007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/adityao007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adityao007/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/adityao007/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/adityao007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adityao007/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adityao007/Leetcode/tree/master/0148-sort-list) |
@@ -545,6 +546,7 @@
 | [0010-regular-expression-matching](https://github.com/adityao007/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/adityao007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adityao007/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/adityao007/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/adityao007/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adityao007/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
