@@ -502,6 +502,7 @@
 | [0812-rotate-string](https://github.com/adityao007/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityao007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/adityao007/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/adityao007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/adityao007/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityao007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adityao007/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -709,6 +710,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/adityao007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/adityao007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/adityao007/Leetcode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/adityao007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/adityao007/Leetcode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/adityao007/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adityao007/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
