@@ -220,6 +220,7 @@
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/adityao007/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/adityao007/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/adityao007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adityao007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/adityao007/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -483,6 +484,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adityao007/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/adityao007/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -621,6 +623,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/adityao007/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityao007/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/adityao007/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -786,6 +789,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/adityao007/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/adityao007/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adityao007/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -797,6 +801,7 @@
 | [0139-word-break](https://github.com/adityao007/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adityao007/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
