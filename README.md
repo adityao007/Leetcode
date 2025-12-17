@@ -207,6 +207,7 @@
 | [0047-permutations-ii](https://github.com/adityao007/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/adityao007/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityao007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/adityao007/Leetcode/tree/master/0055-jump-game) |
@@ -885,6 +886,7 @@
 | [0040-combination-sum-ii](https://github.com/adityao007/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityao007/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityao007/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/adityao007/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/adityao007/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
