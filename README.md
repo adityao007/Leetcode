@@ -471,6 +471,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adityao007/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adityao007/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/adityao007/Leetcode/tree/master/1803-average-waiting-time) |
@@ -490,6 +491,7 @@
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/adityao007/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/adityao007/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/adityao007/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/adityao007/Leetcode/tree/master/0189-rotate-array) |
@@ -517,6 +519,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adityao007/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/adityao007/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/adityao007/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/adityao007/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityao007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
