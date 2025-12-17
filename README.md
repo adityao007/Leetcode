@@ -289,6 +289,7 @@
 | [0141-linked-list-cycle](https://github.com/adityao007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityao007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adityao007/Leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/adityao007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityao007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityao007/Leetcode/tree/master/0268-missing-number) |
@@ -479,6 +480,7 @@
 | [0125-valid-palindrome](https://github.com/adityao007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/adityao007/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/adityao007/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adityao007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityao007/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -723,6 +725,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/adityao007/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityao007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/adityao007/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -789,6 +792,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/adityao007/Leetcode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/adityao007/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
