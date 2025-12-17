@@ -490,6 +490,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/adityao007/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityao007/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -537,6 +538,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityao007/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/adityao007/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/adityao007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/adityao007/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adityao007/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -716,6 +718,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/adityao007/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/adityao007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityao007/Leetcode/tree/master/0055-jump-game) |
