@@ -213,6 +213,7 @@
 | [0055-jump-game](https://github.com/adityao007/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adityao007/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityao007/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/adityao007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityao007/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
@@ -478,6 +479,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/adityao007/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adityao007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/adityao007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/adityao007/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/adityao007/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/adityao007/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -692,6 +694,7 @@
 | [0037-sudoku-solver](https://github.com/adityao007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityao007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/adityao007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/adityao007/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/adityao007/Leetcode/tree/master/0200-number-of-islands) |
