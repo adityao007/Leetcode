@@ -184,6 +184,7 @@
 | [0039-combination-sum](https://github.com/adityao007/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/adityao007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/adityao007/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adityao007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityao007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/adityao007/Leetcode/tree/master/0055-jump-game) |
@@ -264,6 +265,7 @@
 | [0001-two-sum](https://github.com/adityao007/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adityao007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityao007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/adityao007/Leetcode/tree/master/0133-clone-graph) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adityao007/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityao007/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adityao007/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityao007/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityao007/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -451,6 +454,7 @@
 | [0012-integer-to-roman](https://github.com/adityao007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityao007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/adityao007/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/adityao007/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityao007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/adityao007/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adityao007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
