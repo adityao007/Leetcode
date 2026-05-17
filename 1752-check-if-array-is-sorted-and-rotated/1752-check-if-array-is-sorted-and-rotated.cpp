@@ -5,7 +5,7 @@ public:
         int rotation =0;
 
         for(int i=0;i<n;i++){
-            if(nums[i]>nums[(i+1)%n] && ++rotation>1){
+            if(nums[i]>nums[(i+1)%n] && rotation++){
                 return false;
             }
         }
