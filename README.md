@@ -282,6 +282,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/adityao007/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/adityao007/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adityao007/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityao007/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1803-average-waiting-time](https://github.com/adityao007/Leetcode/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/adityao007/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/adityao007/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
